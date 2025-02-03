@@ -1,0 +1,33 @@
+.cardStyle {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    text-align: center;
+    background-color: #fff;
+};
+
+.imageStyle {
+    object-fit: cover;
+    border-radius: 8px;
+};
+
+.buttonStyle {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color:white;
+    color: #000;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+};
+
+.title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black
+};
